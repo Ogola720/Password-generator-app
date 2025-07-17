@@ -1,21 +1,42 @@
 <div align="center">
-🔐 Password Generator
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Secure+Password+Generator;Built+with+Python+%26+Tkinter;Easy+to+Use+GUI+Interface" alt="Typing SVG" />
-PythonTkinterLicenseStars
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"> </p></div>
-🌟 Features
-<div align="center">
-Feature	Description	Status
-🔢 Customizable Length	Set password length (minimum 4 characters)	✅
-🔤 Character Options	Include/exclude uppercase, lowercase, digits, symbols	✅
-📋 Clipboard Integration	One-click copy to clipboard	✅
-🎨 Modern GUI	Clean, intuitive Tkinter interface	✅
-⚡ Instant Generation	Generate passwords in milliseconds	✅
-🛡️ Secure Random	Uses Python's secure random module	✅
+# 🔐 Password Generator
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Secure+Password+Generator;Built+with+Python+%26+Tkinter;Easy+to+Use+GUI+Interface" alt="Typing SVG" />
+
+[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/yourusername/password-generator?style=for-the-badge&color=gold)](https://github.com/yourusername/password-generator/stargazers)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
 </div>
-🚀 Quick Start
-Prerequisites
+
+## 🌟 Features
+
+<div align="center">
+
+| Feature | Description | Status |
+|---------|-------------|--------|
+| 🔢 **Customizable Length** | Set password length (minimum 4 characters) | ✅ |
+| 🔤 **Character Options** | Include/exclude uppercase, lowercase, digits, symbols | ✅ |
+| 📋 **Clipboard Integration** | One-click copy to clipboard | ✅ |
+| 🎨 **Modern GUI** | Clean, intuitive Tkinter interface | ✅ |
+| ⚡ **Instant Generation** | Generate passwords in milliseconds | ✅ |
+| 🛡️ **Secure Random** | Uses Python's secure random module | ✅ |
+
+</div>
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+```bash
 # Ensure you have Python 3.7+ installed
 python --version
 
