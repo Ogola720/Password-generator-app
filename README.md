@@ -50,7 +50,7 @@
 ### 🖥️ **Application Interface**
  
 <p align="center">
-  <img src="Screenshot (4879).png" alt="Main Interface" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <img src="assets/Screenshot (4879).png" alt="Main Interface" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
   <br>
   <em>Clean, intuitive interface with blue gradient header</em>
 </p>
@@ -58,7 +58,7 @@
 ### ⚙️ **Configuration Options**
  
 <p align="center">
-  <img src="Screenshot (4880).png" alt="Configuration" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <img src="assets/Screenshot (4880).png" alt="Configuration" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
   <br>
   <em>Flexible character selection with real-time validation</em>
 </p>
@@ -66,7 +66,7 @@
 ### 🔑 **Generated Results**
  
 <p align="center">
-  <img src="Screenshot (4881).png" alt="Generated Password" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <img src="assets/Screenshot (4881).png" alt="Generated Password" width="450" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
   <br>
   <em>Secure password ready for immediate use</em>
 </p>
