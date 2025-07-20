@@ -265,7 +265,7 @@ title_label = tk.Label(root, font=("Segoe UI", 16, "bold"))
  
 ### 📄 **MIT License**
  
-Copyright © 2024 [Your Name]
+Copyright © 2025 Ogola Peter
  
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
